@@ -1,0 +1,2 @@
+# student_management_system
+一个python基础语法练习的项目
